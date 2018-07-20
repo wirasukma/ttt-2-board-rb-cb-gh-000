@@ -12,7 +12,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 #board[8]
 
 board[0] = " "
-board[1] = "X"
+board[1] = " "
 board[2] = " "
 board[3] = " "
 board[4] = " "
