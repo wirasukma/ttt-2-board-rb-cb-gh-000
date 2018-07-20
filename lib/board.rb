@@ -1,6 +1,6 @@
 # Define the variable board below.
 
-board.new
+Array.new
 row = [" ", " ", " "]
 
 row[0]
