@@ -1,5 +1,6 @@
 # Define the variable board below.
 
+Board.new
 row = [" ", " ", " "]
 
 row[0]
