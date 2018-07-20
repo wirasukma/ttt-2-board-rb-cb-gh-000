@@ -12,5 +12,3 @@ board[7]
 board[8]
 
 board[1] = "X"
-
-board
